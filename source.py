@@ -43,7 +43,7 @@ def speaknow():
             engine.setProperty('rate',150)
             setvoice()
         else:
-            engine.setproperty('rate',60)
+            engine.setProperty('rate',60)
             setvoice()
 
 
